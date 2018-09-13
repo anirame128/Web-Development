@@ -1,0 +1,91 @@
+img {
+  width: 120px;
+  border-radius: 20px;
+  margin-left: 60px;
+  margin-right: 50px;
+  color: aqua;
+}
+body {
+  text-align: center;
+  font-family: "Comic Sans MS";
+  color: blue;
+  
+}
+
+
+html { 
+  background:  url(https://steamusercontent-a.akamaihd.net/ugc/845962109822322908/1DF4C039D211EEF52AC8B79B3BF7C1608A64E9BF/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C500%3A281&composite-to=*,*%7C500%3A281&background-color=black)
+   no-repeat center center fixed; 
+  background-size: cover;
+  border-top: 50px solid rgba(78, 75, 75, 0.568);
+}
+h1{
+  font-size: 3em;
+  margin: .2em .5em;
+  color: rgba(15, 15, 15, 0.808);
+  font-family: "Comic Sans MS";
+}
+body {
+    height: 100%;
+}
+
+
+p {
+  font-size:15pt;
+  margin: .2pt;
+}
+
+#container{width:100%;}
+#left{float:left;width:0px;}
+#right{float:right;width:100px;}
+#center{margin:0 auto;width:700px;}
+
+
+button {
+    background-color: rgb(23, 209, 54);
+    border: none;
+    color: rgb(27, 26, 26);
+    text-align: center;
+    padding: 20px;
+    font-size: 24px;
+    width: 240px;
+    font-family: "Comic Sans MS";
+    border-radius: 20px;
+    
+}
+
+div.hidediv {
+  display: none;
+}
+
+div.banner {
+  background-color: rgb(29, 167, 29);
+  width: 500px;
+  text-align: center;
+  height: 100px;
+  padding-top: 20px;
+}
+
+p.fontcolor {
+  color: rgb(233, 230, 238);
+  font-size: 24px;
+  padding: 20px;
+  background-color: rgb(29, 167, 29);
+}
+
+table.textfont { 
+  font-size: 20px;
+  color: white;
+  border: 1px solid white;
+  background-color: rgb(29, 167, 29);
+}
+
+a {
+  color: white;
+}
+
+th {
+  color: black;
+}
+  
+
